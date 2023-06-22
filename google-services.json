@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228196116164",
+    "project_id": "thecarpoolapp-3a1ae",
+    "storage_bucket": "thecarpoolapp-3a1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228196116164:android:8e6f5c46133b7dd46c0b91",
+        "android_client_info": {
+          "package_name": "the.Carpool.App1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228196116164-ghatr2mln07cq81ss0clbmq9r238fq10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7AIS4hcv9Z8az3OEsiI3aCGuggY4xUtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228196116164-ghatr2mln07cq81ss0clbmq9r238fq10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
